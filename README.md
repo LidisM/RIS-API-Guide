@@ -83,11 +83,11 @@ Cada módulo se expone mediante controladores REST con operaciones **CRUD**.
 ---
 
 ## Mejores prácticas
-✔️ Validaciones robustas en los modelos.  
-✔️ Generación de identificadores únicos de historia clínica.  
-✔️ Paginación y filtros para escalabilidad.  
-✔️ Auditoría y logs detallados para compliance (HIPAA/GDPR).  
-✔️ Testing de endpoints con Scalar o Swagger UI.
+ Validaciones robustas en los modelos.  
+ Generación de identificadores únicos de historia clínica.  
+ Paginación y filtros para escalabilidad.  
+ Auditoría y logs detallados para compliance (HIPAA/GDPR).  
+ Testing de endpoints con Scalar o Swagger UI.
 
 ---
 
