@@ -105,4 +105,4 @@ Para detalles más completos revisa la carpeta [`/docs`](./docs):
 Technical Writer & Backend Developer (C#/.NET)  
 Especializada en sistemas médicos, documentación técnica y transformación digital.
 
- Conecta en: [Medium](https://medium.com) | [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+ Conecta en: [Medium](https://medium.com/@lidismendez369) | [LinkedIn](https://www.linkedin.com/in/lidis-mendez/) | [GitHub](https://github.com/LidisM)
